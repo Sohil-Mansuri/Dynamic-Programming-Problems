@@ -16,7 +16,6 @@ namespace FrogJump
             if (N > 1)
             {
                 int[] heights = new int[N];
-                int[] fessibleSolutions = new int[N];
                 Console.WriteLine("Please Enter values of Height");
 
                 for (int i = 0; i < N; i++)
