@@ -1,0 +1,14 @@
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.exe
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.deps.json
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.runtimeconfig.json
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.runtimeconfig.dev.json
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.dll
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\bin\Debug\netcoreapp3.1\FrogJump.pdb
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.csproj.AssemblyReference.cache
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.AssemblyInfoInputs.cache
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.AssemblyInfo.cs
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.csproj.CoreCompileInputs.cache
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.dll
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.pdb
+D:\CP\DP atcoder probelms\FrogJump\FrogJump\obj\Debug\netcoreapp3.1\FrogJump.genruntimeconfig.cache
