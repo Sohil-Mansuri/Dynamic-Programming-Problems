@@ -1,0 +1,14 @@
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.exe
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.deps.json
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.runtimeconfig.json
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.runtimeconfig.dev.json
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.dll
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\bin\Debug\netcoreapp3.1\VacationProblem.pdb
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.csproj.AssemblyReference.cache
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.AssemblyInfoInputs.cache
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.AssemblyInfo.cs
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.csproj.CoreCompileInputs.cache
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.dll
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.pdb
+D:\CP\DP atcoder probelms\VacationProblem\VacationProblem\obj\Debug\netcoreapp3.1\VacationProblem.genruntimeconfig.cache
